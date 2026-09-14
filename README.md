@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/vrcxO2t1CLV0k/giphy.gif" />
 
-Useful links that will help me (and probably you) to learn English through the Internet.
+Useful and *organic (created and reviewed by humans)* links that will help me (and probably you) to learn English through the Internet.
 
 * [Blogs and Website](#blogs-and-website)
 * [Chrome Extensions](#chrome-extensions)
